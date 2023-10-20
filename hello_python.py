@@ -1,4 +1,2 @@
-s= input("Welcome:")
-# Using the Print Function
-print(s)
+print(" I am learning python and git basics")
 
